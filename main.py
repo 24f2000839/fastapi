@@ -8,7 +8,7 @@ app = FastAPI()
 
 # 🔹 Use OpenRouter instead of OpenAI
 client = OpenAI(
-    api_key="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",
+    api_key="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",
     base_url="https://openrouter.ai/api/v1"
 )
 
